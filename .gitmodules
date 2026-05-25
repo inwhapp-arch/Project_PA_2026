@@ -1,0 +1,12 @@
+[submodule "task1pa"]
+	path = task1pa
+	url = ./task1pa
+[submodule "task2pa"]
+	path = task2pa
+	url = ./task2pa
+[submodule "task3pa"]
+	path = task3pa
+	url = ./task3pa
+[submodule "task4pa"]
+	path = task4pa
+	url = ./task4pa
