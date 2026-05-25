@@ -1,12 +1,12 @@
 [submodule "task1pa"]
 	path = task1pa
-	url = ./task1pa
+	url = https://github.com/inwhapp-arch/task1pa.git
 [submodule "task2pa"]
 	path = task2pa
-	url = ./task2pa
+	url = https://github.com/inwhapp-arch/task2pa.git
 [submodule "task3pa"]
 	path = task3pa
-	url = ./task3pa
+	url = https://github.com/inwhapp-arch/task3pa.git
 [submodule "task4pa"]
 	path = task4pa
-	url = ./task4pa
+	url = https://github.com/inwhapp-arch/task4pa.git
