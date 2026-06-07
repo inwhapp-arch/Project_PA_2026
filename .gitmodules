@@ -10,3 +10,6 @@
 [submodule "task4pa"]
 	path = task4pa
 	url = https://github.com/inwhapp-arch/task4pa.git
+[submodule "taskbonus"]
+	path = taskbonus
+	url = https://github.com/inwhapp-arch/PA-Project-Bonus.git
